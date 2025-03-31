@@ -1,1 +1,189 @@
-const _0x2a8096=_0x189f;function _0x189f(_0x327fa0,_0xa01b6b){const _0x5e6b72=_0x5e6b();return _0x189f=function(_0x189fd3,_0x597546){_0x189fd3=_0x189fd3-0x125;let _0x5b925b=_0x5e6b72[_0x189fd3];return _0x5b925b;},_0x189f(_0x327fa0,_0xa01b6b);}function _0x5e6b(){const _0x4b0258=['\x0a│💎\x20_Mémoire_\x20:\x20','207147zLLKqh','Etc/GMT','156ctDodM','Général','3254lAICfc','categorie','platform','moment-timezone','format','match','1674itvdEz','133EqUcKW','60410bgdEoj','MODE','HH:mm:ss','\x0a│💎\x20_Heure_\x20:\x20','nomCom','🥵🥵\x20Menu\x20erreur\x20','log','/../framework/zokou','\x0a│💎\x20_Owner_\x20:\x20','151192gfFyXO','setDefault','\x0a│💎\x20_Mode_\x20:\x20','NOM_OWNER','\x0a*|❏│\x20','\x0a│💎\x20_Date_\x20:\x20','\x20👋\x0a\x0a*Voici\x20la\x20liste\x20de\x20mes\x20commandes\x20HACKING\x20:*\x0a◇\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20◇\x0a','/../framework/mesfonctions','PREFIXE','Je\x20suis\x20*Hacking-MD*,\x20développé\x20par\x20Thomas','totalmem','*\x20—————❏','1307932dYiUjt','BOT','length','\x0a╭────✧','\x0a👋\x20salut\x20comment\x20\x20allez\x20vous\x20','sendMessage','✧────◆\x0a┃💎╭──────────────\x0a│💎\x20\x20_Préfixe_\x20:\x20','push','\x0a│💎\x20_Commandes_\x20:\x20','2113350vqQpuQ','\x0a│💎\x20_Développeurs_\x20:\x20Thomas\x20\x0a│\x20\x20&\x20MD-HACKER\x20\x0a│💎\x20_Version_\x20:\x20V7.2\x0a│TH\x20\x20______________________________\x0a\x20\x20\x20*nouvelle\x20version\x20française\x20Thomas*\x0a╰─────✧HG-BOT✧─────◆\x20\x0a\x0a','map','toLowerCase','2025685MfesAg'];_0x5e6b=function(){return _0x4b0258;};return _0x5e6b();}(function(_0x9321f9,_0x4d22a6){const _0x1df35f=_0x189f,_0x2f5887=_0x9321f9();while(!![]){try{const _0x1c291f=-parseInt(_0x1df35f(0x141))/0x1+parseInt(_0x1df35f(0x145))/0x2*(parseInt(_0x1df35f(0x143))/0x3)+-parseInt(_0x1df35f(0x132))/0x4+-parseInt(_0x1df35f(0x13f))/0x5+parseInt(_0x1df35f(0x13b))/0x6+parseInt(_0x1df35f(0x14c))/0x7*(-parseInt(_0x1df35f(0x126))/0x8)+parseInt(_0x1df35f(0x14b))/0x9*(parseInt(_0x1df35f(0x14d))/0xa);if(_0x1c291f===_0x4d22a6)break;else _0x2f5887['push'](_0x2f5887['shift']());}catch(_0x2a07b5){_0x2f5887['push'](_0x2f5887['shift']());}}}(_0x5e6b,0x3ffdb));const {zokou}=require(__dirname+_0x2a8096(0x154)),{format}=require(__dirname+_0x2a8096(0x12d)),os=require('os'),moment=require(_0x2a8096(0x148)),s=require(__dirname+'/../set');zokou({'nomCom':'bugmenu','reaction':'🔎','categorie':_0x2a8096(0x144)},async(_0x2cc2a9,_0x47c207,_0x531b33)=>{const _0x32553d=_0x2a8096;let {ms:_0xef03b6,repondre:_0x5d4c0a,prefixe:_0xe5c589,nomAuteurMessage:_0x47260c,mybotpic:_0x276d7a}=_0x531b33,{cm:_0x4d6c5d}=require(__dirname+'/../framework//zokou');var _0x26e074={},_0x1f7333='public';s[_0x32553d(0x14e)][_0x32553d(0x13e)]()!='oui'&&(_0x1f7333='privé');_0x4d6c5d[_0x32553d(0x13d)](async(_0x3085ce,_0x298b3c)=>{const _0x204f52=_0x32553d;!_0x26e074[_0x3085ce[_0x204f52(0x146)]]&&(_0x26e074[_0x3085ce[_0x204f52(0x146)]]=[]),_0x26e074[_0x3085ce[_0x204f52(0x146)]][_0x204f52(0x139)](_0x3085ce[_0x204f52(0x151)]);}),moment['tz'][_0x32553d(0x127)](_0x32553d(0x142));const _0x32b003=moment()[_0x32553d(0x149)](_0x32553d(0x14f)),_0x45fe96=moment()[_0x32553d(0x149)]('DD/MM/YYYY');let _0x27c4cb=_0x32553d(0x135)+s[_0x32553d(0x133)]+_0x32553d(0x138)+s[_0x32553d(0x12e)]+_0x32553d(0x125)+s[_0x32553d(0x129)]+_0x32553d(0x128)+_0x1f7333+_0x32553d(0x13a)+_0x4d6c5d[_0x32553d(0x134)]+_0x32553d(0x12b)+_0x45fe96+_0x32553d(0x150)+_0x32b003+_0x32553d(0x140)+format(os[_0x32553d(0x130)]()-os['freemem']())+'/'+format(os['totalmem']())+'\x0a│💎_Plateforme_\x20:\x20'+os[_0x32553d(0x147)]()+_0x32553d(0x13c),_0x38f820=_0x32553d(0x136)+_0x47260c+_0x32553d(0x12c);for(const _0x33150f in _0x26e074){_0x38f820+='╭────❏\x20*'+_0x33150f+_0x32553d(0x131);for(const _0x4cbf57 of _0x26e074[_0x33150f]){_0x38f820+=_0x32553d(0x12a)+_0x4cbf57+'*';}_0x38f820+='\x0a╰═════════════⊷\x20\x0a';}_0x38f820+='\x0a◇\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20◇\x0a*»»—————\x20---\x20★\x20---\x20—————««*\x0aPour\x20utiliser\x20\x20une\x20\x20commande,\x20tapez\x20\x20'+_0xe5c589+'\x22nom\x20de\x20la\x20commande\x22\x0a\x20\x0apowered\x20by\x20Hacking-md\x0a\x20\x20\x20\x20\x20**YouTube**:\x20https://youtube.com/@KouameDjakiss?si=k2HqPPSmHBZe3ABd\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a*»»——————————★—————————««*\x0a';var _0x57446b=_0x276d7a();if(_0x57446b[_0x32553d(0x14a)](/\.(mp4|gif)$/i))try{_0x47c207[_0x32553d(0x137)](_0x2cc2a9,{'video':{'url':_0x57446b},'caption':_0x27c4cb+_0x38f820,'footer':_0x32553d(0x12f),'gifPlayback':!![]},{'quoted':_0xef03b6});}catch(_0x4b95d4){console[_0x32553d(0x153)]('🥵🥵\x20Menu\x20erreur\x20'+_0x4b95d4),_0x5d4c0a('🥵🥵\x20Menu\x20erreur\x20'+_0x4b95d4);}else{if(_0x57446b[_0x32553d(0x14a)](/\.(jpeg|png|jpg)$/i))try{_0x47c207[_0x32553d(0x137)](_0x2cc2a9,{'image':{'url':_0x57446b},'caption':_0x27c4cb+_0x38f820,'footer':_0x32553d(0x12f)},{'quoted':_0xef03b6});}catch(_0xc21279){console[_0x32553d(0x153)](_0x32553d(0x152)+_0xc21279),_0x5d4c0a('🥵🥵\x20Menu\x20erreur\x20'+_0xc21279);}else _0x5d4c0a(_0x27c4cb+_0x38f820);}});
+const util = require('util');
+const fs = require('fs-extra');
+const { zokou } = require(__dirname + "/../framework/zokou");
+const { format } = require(__dirname + "/../framework/mesfonctions");
+const os = require("os");
+const moment = require("moment-timezone");
+const s = require(__dirname + "/../set");
+const more = String.fromCharCode(8206);
+const readmore = more.repeat(4001);
+
+zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
+    const { ms, repondre, prefixe, nomAuteurMessage, mybotpic } = commandeOptions;
+    const { cm } = require(__dirname + "/../framework/zokou");
+    const categories = {};
+    
+    // Configuration du mode
+    const mode = (s.MODE).toLowerCase() === "oui" ? "public" : "privé";
+
+    // Organisation des commandes par catégorie
+    cm.map((com) => {
+        if (!categories[com.categorie]) {
+            categories[com.categorie] = [];
+        }
+        categories[com.categorie].push(com.nomCom);
+    });
+
+    // Configuration de l'heure et de la date
+    moment.tz.setDefault('Etc/GMT');
+    const temps = moment().format('HH:mm:ss');
+    const date = moment().format('DD/MM/YYYY');
+    const WEBSITE = "https://www.famoustech.biz.id"
+
+    // En-tête du bot avec style amélioré
+    const header = `
+╔══════《 ${s.BOT} 》══════⊱
+║
+╟❀ *INFORMATIONS DU BOT* ❀
+║
+╟➣ 👑 *Propriétaire* : ${s.NOM_OWNER}
+╟➣ 🌟 *Utilisateur* : ${nomAuteurMessage}
+╟➣ 📅 *Date* : ${date}
+╟➣ ⏰ *Heure* : ${temps}
+╟➣ ⚡ *Préfixe* : ${s.PREFIXE}
+╟➣ 🌐 *Mode* : ${mode}
+╟➣ 📊 *Commandes* : ${cm.length}
+╟➣ 💻 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+╟➣ 🔧 *Système* : ${os.platform()}
+╟➣ 🌐 *Site* : ${WEBSITE}
+║
+╟❀ *DÉVELOPPEUR* : Famous-Tech 
+║
+╚════════════════════⊱
+
+${readmore}`;
+
+    // Corps du menu avec style amélioré😏
+    let menuContent = `
+╔══❀ *MENU PRINCIPAL* ❀═══⊱
+║`;
+
+    // Trier les catégories par ordre alphabétique
+    const sortedCategories = Object.keys(categories).sort();
+
+    for (const categorie of sortedCategories) {
+        const emoji = getCategoryEmoji(categorie);
+        menuContent += `
+║
+╟══❑ ${emoji} *${categorie.toUpperCase()}* ❑══⊱`;
+        
+        for (const cmd of categories[categorie]) {
+            menuContent += `
+╟➣ ${cmd}`;
+        }
+        
+        menuContent += `
+║`;
+    }
+
+    menuContent += `
+║
+╚══════════════════⊱
+
+┏━━━━━━━━━━━━━━━━━┓
+┃  ⭐ AUTOMATED-MD ⭐  ┃
+┃    VERSION ${s.VERSION || "LATEST"}   ┃
+┃ By Thomas Tech & Famous-Tech ┃
+┗━━━━━━━━━━━━━━━━━┛`;
+
+    // Template du message avec externalAdReply
+    const messageTemplate = {
+        image: { url: mybotpic() },
+        caption: header + menuContent,
+        contextInfo: {
+            externalAdReply: {
+                title: `AUTOMATED-MD MENU`,
+                body: `Version ${s.VERSION || "LATEST"}`,
+                mediaType: 1,
+                previewType: 0,
+                renderLargerThumbnail: true,
+                thumbnailUrl: mybotpic(),
+                sourceUrl: WEBSITE
+            }
+        }
+    };
+
+    // Gestion de l'envoi du message
+    try {
+        await zk.sendMessage(dest, messageTemplate, { quoted: ms });
+    } catch (error) {
+        console.error("⚠️ Erreur menu:", error);
+        // Fallback en cas d'erreur
+        try {
+            const lien = mybotpic();
+            if (lien.match(/\.(mp4|gif)$/i)) {
+                await zk.sendMessage(dest, {
+                    video: { url: lien },
+                    caption: header + menuContent,
+                    contextInfo: {
+                        externalAdReply: {
+                            title: `AUTOMATED-MD MENU`,
+                            body: `Version ${s.VERSION || "LATEST"}`,
+                            mediaType: 1,
+                            previewType: 0,
+                            renderLargerThumbnail: true,
+                            thumbnailUrl: lien,
+                            sourceUrl: WEBSITE
+                        }
+                    },
+                    gifPlayback: true
+                }, { quoted: ms });
+            } else {
+                await zk.sendMessage(dest, {
+                    image: { url: lien },
+                    caption: header + menuContent,
+                    contextInfo: {
+                        externalAdReply: {
+                            title: `AUTOMATED-MD MENU`,
+                            body: `Version ${s.VERSION || "LATEST"}`,
+                            mediaType: 1,
+                            previewType: 0,
+                            renderLargerThumbnail: true,
+                            thumbnailUrl: lien,
+                            sourceUrl: WEBSITE
+                        }
+                    }
+                }, { quoted: ms });
+            }
+        } catch (fallbackError) {
+            await repondre("❌ Une erreur est survenue lors de l'affichage du menu.");
+        }
+    }
+});
+
+// Fonction pour attribuer des émojis aux catégories 
+// New MENU BY FAMOUS-TECH 
+function getCategoryEmoji(category) {
+    const emojis = {
+        'general': '🎯',
+        'owner': '👑',
+        'groupe': '👥',
+        'fun': '🎮',
+        'jeux': '🎲',
+        'téléchargement': '📥',
+        'recherche': '🔍',
+        'outils': '🛠️',
+        'admin': '⚡',
+        'anime': '🎭',
+        'nsfw': '🔞',
+        'musique': '🎵',
+        'conversion': '🔄',
+        'sticker': '🎨',
+        'utilitaire': '🔧',
+        'modération': '🛡️',
+        'économie': '💰',
+        'info': 'ℹ️',
+        'divers': '📦',
+        'éditeurs d’images': '🖼️',
+        'download': '📥',
+        'famous-tech': '🌟',
+        'games': '🎮',
+        'hentai': '🍑',
+        'heroku': '🛠️',
+        'ia': '🤖',
+        'logo': '🖌️',
+        'mods': '🔧'
+    };
+    
+    return emojis[category.toLowerCase()] || '📱';
+}
