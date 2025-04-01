@@ -3,7 +3,7 @@ const fs = require('fs');
 
 zokou({
   nomCom: "share",
-  categorie: "Utility",
+  categorie: "SPECIAL-CLEAN",
   reaction: "🚀",
   description: "Partage un message avec délai de 30s entre chaque envoi"
 }, async (origine, zk, { msgRepondu, arg, repondre }) => {

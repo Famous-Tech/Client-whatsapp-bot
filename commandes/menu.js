@@ -83,12 +83,12 @@ ${readmore}`;
 ┏━━━━━━━━━━━━━━━━━┓
 ┃  ⭐ AUTOMATED-MD ⭐  ┃
 ┃    VERSION ${s.VERSION || "LATEST"}   ┃
-┃ By Thomas Tech & Famous-Tech ┃
+┃ By  Famous-Tech ┃
 ┗━━━━━━━━━━━━━━━━━┛`;
 
     // Template du message avec externalAdReply
     const messageTemplate = {
-        image: { url: mybotpic() },
+        image: { url: "https://files.catbox.moe/e461b6.jpg" },
         caption: header + menuContent,
         contextInfo: {
             externalAdReply: {

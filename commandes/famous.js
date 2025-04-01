@@ -3,7 +3,7 @@ zokou({
 
     nomCom: "love_msg",
   
-    categorie: "FAMOUS-TECH-PLUGINS🇭🇹",
+    categorie: "Gift",
   
     reaction: "❤️",
   
@@ -141,7 +141,7 @@ zokou({
   
     nomCom: "famous-tech",
   
-    categorie: "FAMOUS-TECH-PLUGINS🇭🇹",
+    categorie: "Gift",
   
     reaction: "💫",
   

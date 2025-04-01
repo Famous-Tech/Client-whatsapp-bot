@@ -2,7 +2,7 @@ const { zokou } = require(__dirname + "/../framework/zokou");
 
 zokou({
     nomCom: "getjid",
-    categorie: "Utility",
+    categorie: "SPECIAL-CLEAN",
     reaction: "🔍",
     description: "Récupère le JID du groupe ou du chat privé"
 }, async (origine, zk, { repondre, auteurMessage }) => {

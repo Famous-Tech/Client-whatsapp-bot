@@ -82,7 +82,7 @@
             const sockOptions = {
                 version,
                 logger: pino({ level: "silent" }),
-                browser: ['Hacking-Md', "safari", "1.0.0"],
+                browser: ['Chrome', "safari", "1.0.0"],
                 printQRInTerminal: true,
                 fireInitQueries: false,
                 shouldSyncHistoryMessage: true,
@@ -170,7 +170,7 @@
                 
                 var dev = [dj, dj2,dj3,dj4,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
                 function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-                console.log("\t [][]...{Hacking-Md}...[][]");
+                console.log("\t [][]...{Automated-MD}...[][]");
                 console.log("=========== Nouveau message ===========");
                 if (verifGroupe) {
                     console.log("message provenant du groupe : " + nomGroupe);
@@ -497,7 +497,7 @@ if (conf.CHAT_BOT === 'oui') {
 
             
          //anti-lien
-         try {
+        /* try {
             const yes = await verifierEtatJid(origineMessage)
             if ((texte.includes('https://') || texte.includes('http://') ) && verifGroupe &&  yes  ) {
     
@@ -579,7 +579,7 @@ if (conf.CHAT_BOT === 'oui') {
                                         }
                                     }
                                     
-                                }
+                                } 
                             
                         
                     
@@ -588,7 +588,7 @@ if (conf.CHAT_BOT === 'oui') {
         
         catch (e) {
             console.log("bdd err " + e);
-        }
+        } */
         
         
     
